@@ -18,10 +18,14 @@ def create_words1a5b_file():
             words_1a5b.append(wordlist[0])
             print(wordlist[0])
 
+    allwords = set()
+    allwords.update([word.strip() for word in words_1a3b])
+    allwords.update([word.strip() for word in words_1a5b])
+
     with open('data\\words1a5b.txt', 'w', encoding='utf-8') as fd:
-        fd.writelines([word.strip(' ')+'\n' for word in words_1a5b])
+        fd.writelines([word+'\n' for word in allwords])
 
 def main():
-    create_1a5b_file()
+    create_words1a5b_file()
 
 main()
