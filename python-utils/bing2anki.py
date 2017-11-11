@@ -45,7 +45,7 @@ def bing_dict(browser, words_list):
 
 
 def input_words_list(input_file):
-    re_en_word=re.compile(r'^[a-zA-Z]+$')
+    re_en_word=re.compile(r'^[a-zA-Z\'\-\.\s]+$')
     re_space = re.compile(r'\s+')
     for each_line in input_file: 
         if re_empty_line.match(each_line.rstrip()):
@@ -137,9 +137,9 @@ def create_anki_file(input_words, voice_path, browser, media_dir):
             anki_file.write(col_sep.join(anki_line) )
             anki_file.write('\n')
 
-if __name__ == '__main__':
-    voice_path = sys.argv[1]
-    media_dir = os.path.join(os.getcwd(), 'anki_media')
+def main():
+    voice_path = 'D:/Backup/english/voice'
+    media_dir = 'data/media_file'
     if not os.access(media_dir, os.R_OK):
         os.mkdir(media_dir)
     elif not os.path.isdir(media_dir):
@@ -147,7 +147,11 @@ if __name__ == '__main__':
         os.exit(1)
     else:
         pass
-    browser = splinter.Browser(driver_name='chrome')
-    input_words = input_words_list(sys.stdin)
-    create_anki_file(input_words, voice_path, browser, media_dir)
-    browser.quit()
+    input_words = input_words_list(open('data/words1a5b.txt', 'r', encoding='utf-8'))
+    words = list(input_words)
+    print(words,len(words))
+    #browser = splinter.Browser(driver_name='chrome')
+    #create_anki_file(input_words, voice_path, browser, media_dir)
+    #browser.quit()
+
+main()
