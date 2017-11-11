@@ -610,7 +610,7 @@ bring	[briŋ]	带来
 engine	['endзin] 	引擎
 fireman	['faiəmən] 	消防队员
 policeman	[pə'li:smən]	警察
-policewoman[pə'li:s,wumən]		女警察
+policewoman	[pə'li:s,wumən]	女警察
 ambulance	['æmbjuləns] 	急救员
 man	[mæn]	男人
 teacher	['ti:t∫ə]	老师
@@ -986,7 +986,7 @@ jungle  	['dзΛŋɡl]  	丛林
 peel   	[pi:l]  	剥皮
 them	[ðem]    	他们（宾格）
 through	[θru:]   	通过
-zoo-keeper['zu:ki:pə] 	赶车	动物园管理员
+zoo-keeper	['zu:ki:pə] 	动物园管理员
 natural 	['næt∫ərəl] 	自然的
 wild   	[waild] 	野生的 
 climb   	[klaim]  	往上爬
@@ -1003,7 +1003,8 @@ busy	['bizi] 	忙碌的
 choose   	[t∫u:z]	选择
 become  	[bi'kΛm]   	变成    
 body 	['bכdi]  	身体 
-caterpillar ['kætəpilə]  广场	square  	毛虫  
+caterpillar	['kætəpilə]	毛虫  
+square	 [skwer]	广场
 ugly	[Λgli]	丑陋的
 cocoon 	[kə'ku:n]  	蚕茧 
 feeler 	['fi:lə] 	触角 
@@ -1039,16 +1040,16 @@ horse	[hɔ:s]	马
 hay	[hei] 	干草
 corn	[kɔ:n]	谷物
 leave	[li:v]	丢下
-block 	[blɔk]	n.大楼，街区
-shadow 	[ˈʃædəu]	n.阴影；影子
+block	[blɔk]	n.大楼，街区
+shadow	[ˈʃædəu]	n.阴影；影子
 in front of		在…前面，在…面前
-front  	[frʌnt]	a.前面的
-flat  	[flæt]	n.公寓套房
+front	[frʌnt]	a.前面的
+flat	[flæt]	n.公寓套房
 strawberry  	[‘strɔ:bəri]	n.草莓
-cherry  	[ˈtʃeri]	n.樱桃(树)
-plum  	[plʌm]	n.李子
+cherry	[ˈtʃeri]	n.樱桃(树)
+plum	[plʌm]	n.李子
 durian	['du:riən]	n.榴莲
-rise 	[raiz]	vi.升起
+rise	[raiz]	vi.升起
 down	[daun]	a./ ad.向下prep.沿着…而下
 over	[ˈəuvə]	prep.在…的上方
 cupboard	[ˈkʌbəd]	n.(放食物,衣物,碗碟等的)柜橱
@@ -1063,7 +1064,7 @@ hammer	[ˈhæmə]	n.锤，榔头
 screwdriver	[ˈskru:ˌdraivə]	n.螺丝起子
 both	[bəuθ]	a.两个…(都)，两者的
 musical	[ˈmju:zikəl]	a.音乐的
-instrument  	[ˈinstrumənt]	n.仪器，器械，乐器
+instrument	[ˈinstrumənt]	n.仪器，器械，乐器
 bean	[bi:n]	n.豆
 string	[striŋ]	n.弦，线
 empty	[ˈempti]	a.空的
@@ -1075,7 +1076,7 @@ tongue	[tʌŋ]	n.舌头
 correct	[kəˈrekt]	a.正确的；合适的
 with	[wið, wiθ]	prep.和,跟,同;具有;用;关于;随着
 country	[ˈkʌntri]	n.国家; [the ～]农村,乡村
-lost  	[lɔst]	a.失去的
+lost	[lɔst]	a.失去的
 shout	[ʃaut]	v./ n.呼喊，呼叫
 save	[seiv]	vt.救
 same	[seim]	a.相同的
@@ -1116,7 +1117,7 @@ left	[left]	a.左边的 ad.在左边
 right	[rait]	a./ ad.对(的)；右(的)
 up	[ʌp]	ad./a. 向上(的)  prep. 沿…往上
 along	[əˈlɔŋ]	ad. 向前地  prep. 沿着
-hotel  	[həuˈtel]	n.旅馆，宾馆，酒店，饭店
+hotel	[həuˈtel]	n.旅馆，宾馆，酒店，饭店
 holiday	[ˈhɔlədi]	n.假期，假日，节日
 step	[step]	n.(脚)步；台阶
 cross	[krɔs]	v.穿过，交叉
@@ -1141,13 +1142,13 @@ watch	[wכt∫]	观看
 rainy	[`reini]	下雨的
 Saturday	['sætədi] 	星期六
 September	[səp`tembə]	九月
-puppet  	[ˈpʌpit]	n.木偶
+puppet	[ˈpʌpit]	n.木偶
 dinosaur	[ˈdainəsɔ:]	n.恐龙
-computer  	[kʌmˈpju:tə]	n.计算机，电脑
+computer	[kʌmˈpju:tə]	n.计算机，电脑
 past	[pɑ:st]	prep./ ad.经过，过
 find	[faind]	vt.发现
 inside	[inˈsaid]	ad./ prep.在…里面
-outside  	[ˈautˈsaid]	prep./ad./ a.(在,向)的外面(的)
+outside	[ˈautˈsaid]	prep./ad./ a.(在,向)的外面(的)
 rug	[rʌg]	n.(小)地毯，毯子
 furniture	[ˈfə:nitʃə]	n.家具
 move	[mu:v]	v.搬家，移动
@@ -1161,11 +1162,11 @@ weather	[`weðə]	天气
 Wednesday	['wenzdi]	星期三
 windy	['windi]	有风的
 roll	[rəul]	v.(使)滚动
-roll over  		翻滚
+roll over		翻滚
 around	[əˈraund]	ad.在周围；到处
 tadpole	[ˈtædpəul]	n.蝌蚪
 caterpillar	[ˈkætəˌpilə]	n.毛虫，蝴蝶的幼虫
-cocoon  	[kəˈkuːn]	n.茧
+cocoon	[kəˈkuːn]	n.茧
 cheap	[t∫i:p]	便宜
 dear	[diə]          	昂贵
 for	[fɔ:]	为了
@@ -1180,9 +1181,9 @@ score	[skɔ:]	n.得分
 goal	[gəul]	n.目标；进球得分；球门，得分
 pop	[pɔp]	n.流行音乐
 noisy	[ˈnɔizi]	a.嘈杂的，喧闹的
-after  	[ˈɑ:ftə]	prep./ conj.在…之后
+after	[ˈɑ:ftə]	prep./ conj.在…之后
 people	[ˈpi:pl]	n.人(们)
-temperature  	[ˈtemp(ə)ritʃə]	n.温度，气温，体温
+temperature	[ˈtemp(ə)ritʃə]	n.温度，气温，体温
 degree	[diˈgri:]	n.度，度数
 millimetre	[ˈmiliˌmi:tə]	n.毫米
 south	[sauθ]	n.南(方)，南部
